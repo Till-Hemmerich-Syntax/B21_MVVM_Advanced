@@ -11,7 +11,7 @@ import SwiftUI
 struct B21_MVVM_AdvancedApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
